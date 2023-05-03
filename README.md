@@ -1,5 +1,6 @@
 PRECIPITATION ANOMALY
 =====================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6656240.svg)](https://doi.org/10.5281/zenodo.6656240)
 
 Figure number: 3.15
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
